@@ -5,6 +5,6 @@ mvn clean install mvn jetty:run
 
 Addresses availables:
 
-(HTTP GET) http://localhost:8080/rest-easy/api/ping
-(HTTP GET) http://localhost:8080/rest-easy/api/YourName
-(HTTP PUT) http://localhost:8080/rest-easy/api/1
+* (HTTP GET) http://localhost:8080/rest-easy-spring/api/ping
+* (HTTP GET) http://localhost:8080/rest-easy-spring/api/YourName
+* (HTTP PUT) http://localhost:8080/rest-easy-spring/api/1
