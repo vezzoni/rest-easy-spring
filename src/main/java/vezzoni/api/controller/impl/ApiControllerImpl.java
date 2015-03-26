@@ -11,7 +11,7 @@ import javax.ws.rs.core.Response;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import vezzoni.api.controller.ApiController;
-import vezzoni.api.controller.service.ApiService;
+import vezzoni.api.service.ApiService;
 
 @Controller
 @Path(value = "/")

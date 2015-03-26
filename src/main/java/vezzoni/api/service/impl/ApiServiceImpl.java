@@ -1,7 +1,7 @@
-package vezzoni.api.controller.service.impl;
+package vezzoni.api.service.impl;
 
 import org.springframework.stereotype.Service;
-import vezzoni.api.controller.service.ApiService;
+import vezzoni.api.service.ApiService;
 
 @Service
 public class ApiServiceImpl implements ApiService {

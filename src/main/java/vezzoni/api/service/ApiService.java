@@ -1,4 +1,4 @@
-package vezzoni.api.controller.service;
+package vezzoni.api.service;
 
 public interface ApiService {
     
